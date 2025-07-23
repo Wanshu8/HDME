@@ -14,4 +14,4 @@ Pearling industry web map (OpenGulf)
 
 
 
-<iframe src="https://opengulf.github.io/webapps/Pearlprotection/index.html#6/28.516/52.077" width="100%" height="800"></iframe>
+<iframe src="https://opengulf.github.io/webapps/Pearlprotection/index.html#6/28.516/52.077" width="100%" height="500"></iframe>
