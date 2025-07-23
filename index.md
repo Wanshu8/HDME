@@ -7,7 +7,7 @@
 
 Frankenstein iframe
 
-<iframe style='width: 289px; height: 220px;' 
+<iframe style='width: 500px; height: 500px;' 
 src='https://voyant-tools.org/tool/Cirrus/?corpus=frank'></iframe>
 
 Pearling industry web map (OpenGulf)
